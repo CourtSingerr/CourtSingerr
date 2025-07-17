@@ -2,19 +2,19 @@ I'm a passionate Data Scientist and Analyst based in Calgary, Alberta, dedicated
 
 
 ### 🎓 Education
-MSc in Data Science, University of Colorado Boulder
-BSc in Geophysics, University of Calgary
+- MSc in Data Science, University of Colorado Boulder
+- BSc in Geophysics, University of Calgary
 
 ### 💻 Technical Skills
 
-Programming: Python, R, SQL
+- Programming: Python, R, SQL
 
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
-Cloud & Big Data: Azure Data Factory, Azure Synapse, Azure Databricks
+- Cloud & Big Data: Azure Data Factory, Azure Synapse, Azure Databricks
 
-Machine Learning & AI: Predictive Modeling, TensorFlow, Keras, Feature Engineering
+- Machine Learning & AI: Predictive Modeling, TensorFlow, Keras, Feature Engineering
 
-Project Management: Agile methodologies, Jira, Azure DevOps
+- Project Management: Agile methodologies, Jira, Azure DevOps
 
 
