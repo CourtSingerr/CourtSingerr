@@ -1,7 +1,13 @@
-## Hi there 👋
+I'm a passionate Data Scientist and Analyst based in Calgary, Alberta, dedicated to turning data into actionable insights and powerful decision-making tools. My expertise lies in leveraging modern analytics frameworks and technologies like Python, R, SQL, Azure, and Power BI to drive strategic business solutions across diverse industries, including energy.
 
-<!--
-**CourtSingerr/CourtSingerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+###🎓 Education
+
+MSc in Data Science, University of Colorado Boulder
+BSc in Geophysics, University of Calgary
+
+
+
 
 Here are some ideas to get you started:
 
