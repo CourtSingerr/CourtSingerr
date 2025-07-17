@@ -18,3 +18,9 @@ I'm a passionate Data Scientist and Analyst based in Calgary, Alberta, dedicated
 - Project Management: Agile methodologies, Jira, Azure DevOps
 
 
+🚀 Let's Connect!
+
+LinkedIn: https://www.linkedin.com/in/courtney-singer/
+
+📧 Email Me: csing@shaw.ca
+
