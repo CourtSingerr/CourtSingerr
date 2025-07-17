@@ -1,3 +1,5 @@
+## Hi, I'm Courtney
+
 I'm a passionate Data Scientist and Analyst based in Calgary, Alberta, dedicated to turning data into actionable insights and powerful decision-making tools. My expertise lies in leveraging modern analytics frameworks and technologies like Python, R, SQL, Azure, and Power BI to drive strategic business solutions across diverse industries, including energy.
 
 
